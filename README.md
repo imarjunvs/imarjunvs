@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">Passionate Deep Learning Enthusiast | Exploring the Boundaries of AI</h3>
-
+<img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" alt="Coding" width="400" align="right">
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **arjunvs903@gmail.com**
